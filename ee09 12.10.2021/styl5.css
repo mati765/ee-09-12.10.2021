@@ -1,0 +1,35 @@
+body {
+    font-family:   Arial;
+}
+.baner {
+    background-color: #483D8B;
+    height: 150px;
+    width: 30%;
+    float: left;
+}
+.baner2 {
+    background-color: #483D8B;
+    color: white;
+    height: 150px;
+    width: 70%;
+    float: left;
+}
+.glowny {
+    background-color: #afeeee;
+    width: 150px;
+    height: 100px;
+    margin: 3px;
+    border-width: 1px;
+    border-style: solid;
+    clear: both;
+}
+
+footer {
+    background-color: #483D8B;
+    color: white;
+    padding: 10px;
+}
+
+h5 {
+    text-align: center;
+}
